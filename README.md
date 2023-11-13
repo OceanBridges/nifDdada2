@@ -6,6 +6,7 @@ References:
 3) M. A. Moynihan & C. Furbo Reeder 2023. nifHdada2 GitHub repository, v2.0.5. Zenodo. http://doi.org/10.5281/zenodo.7996213
 
 Acknowledgement:
+
 We acknowledge the support from Simons Foundation (Award#: 824763), NOTION by BNP Paribas Fundation for Climate and Biodiversity, MANIOC by Aix-Marseille University, and DINDE by CEFIPRA and IDEFIX. We would also like to thank Jonathan Magasin for helpful discussions.
 
 Please cite:
