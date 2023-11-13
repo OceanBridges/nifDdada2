@@ -1,4 +1,4 @@
-The nifD database (version 1.1.0) for the DADA2 pipeline is based on the same principles and methods as the nifH database for DADA2 (M. A. Moynihan et al., 2023). Briefly, Arbitrator 2023 (Heller et al., 2014) were used to construct an ARB database for nifD. nifD ARB database were exported to XML followed by updating sequences taxonomic according to NCBI.
+The nifD database (version 1.1.0) for the DADA2 pipeline is based on the same principles and methods as the nifH database for DADA2 (M. A. Moynihan et al., 2023). Briefly, Arbitrator 2023 (Heller et al., 2014) were used to construct an ARB database for nifD. nifD ARB database were exported to XML followed by updating sequences taxonomic annotations according to NCBI.
 
 References:
 1) Heller, P., Tripp, H. J., Turk-Kubo, K., & Zehr, J. P. (2014). ARBitrator: A software pipeline for on-demand retrieval of auto-curated nifH sequences from GenBank. 
