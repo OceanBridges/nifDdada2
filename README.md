@@ -15,7 +15,7 @@ We acknowledge the support from Simons Foundation (Award#: 824763), NOTION by BN
 
 Please cite:
 
-C. Furbo Reeder, M. A. Moynihan & S. Chowdhury  2023. nifDdada2 GitHub repository, v1.1.0.
+C. Furbo Reeder, M. A. Moynihan & S. Chowdhury  2023. nifDdada2 GitHub repository, v1.1.0. DOI 10.5281/zenodo.10124357
 
 
 
