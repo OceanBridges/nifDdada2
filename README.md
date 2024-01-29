@@ -10,7 +10,7 @@ References:
 
 Acknowledgement:
 
-We acknowledge the support from Simons Foundation (Award#: 824763), NOTION by BNP Paribas Fundation for Climate and Biodiversity, MANIOC by Aix-Marseille University, and DINDE by CEFIPRA and IDEFIX. We would also like to thank Jonathan Magasin for helpful discussions.
+We acknowledge the support from Simons Foundation (Award#: 824763), the National Science Foundation PRFP program (Award #2205993), NOTION by BNP Paribas Fundation for Climate and Biodiversity, MANIOC by Aix-Marseille University, and DINDE by CEFIPRA and IDEFIX. We would also like to thank Jonathan Magasin for helpful discussions.
 
 
 Please cite:
